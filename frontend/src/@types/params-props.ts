@@ -1,0 +1,1 @@
+export type ParamsProps = { params : { page : number }} | { params: { query: string } }
