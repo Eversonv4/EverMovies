@@ -79,3 +79,21 @@ vite-app     |   ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle
 ```
 
 Now you can open the URL `http://localhost:5173/` in your browser.
+
+<h3>Preview</h3>
+
+<h4>Home</h4>
+
+<img src="https://raw.githubusercontent.com/Eversonv4/EverMovies/refs/heads/main/frontend/public/preview.png" />
+
+<h4>Movies</h4>
+
+<img src="https://raw.githubusercontent.com/Eversonv4/EverMovies/refs/heads/main/frontend/public/movies.png" />
+
+<h4>TV Series</h4>
+
+<img src="https://raw.githubusercontent.com/Eversonv4/EverMovies/refs/heads/main/frontend/public/tv-series.png" />
+
+<h4>Favorites</h4>
+
+<img src="https://raw.githubusercontent.com/Eversonv4/EverMovies/refs/heads/main/frontend/public/favorites.png" />
